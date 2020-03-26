@@ -9,13 +9,9 @@ Become the hero for someone or ask for help - Web application made with React
 
 🆘 About BeTheHero
 ------------------
-This project is a software that allows organizations to ask for help and share their necessities. The software has a [**web version**](https://github.com/riltonfranzonee/bethehero) made with ReactJS, where the organizations are able to create new incidents and manage them by deleting. The application also has a [**mobile version (currently in development)**](https://github.com/riltonfranzonee/bethero-mobile) made with React Native, where anyone can access to know about the incidents and contact organizations to become a hero. All this software is served by a [**REST API**](https://github.com/riltonfranzonee/bethehero-api) made with Node.js
+This project is a software that allows organizations to ask for help and share their necessities. The software has a [**web version**](https://github.com/cristianojr9/be-the-hero) made with ReactJS, where the organizations are able to create new incidents and manage them by deleting. The application also has a [**mobile version (currently in development)**](https://github.com/cristianojr9/be-the-hero-mobile) made with React Native, where anyone can access to know about the incidents and contact organizations to become a hero. All this software is served by a [**REST API**](https://github.com/cristianojr9/be-the-hero/backend) made with Node.js
 
 <img alt="1" src="https://user-images.githubusercontent.com/58868651/77576014-2a885300-6eb3-11ea-9597-325bcb1184a8.png">
-<img alt="2" src="https://user-images.githubusercontent.com/58868651/77574312-94532d80-6eb0-11ea-82fd-f4801aed756e.png">
-<img  alt="3" src="https://user-images.githubusercontent.com/58868651/77574317-95845a80-6eb0-11ea-91c7-b55d4c774a79.png">
-<img alt="4" src="https://user-images.githubusercontent.com/58868651/77574321-96b58780-6eb0-11ea-9342-0385e0a08875.png">
-<img alt="5" src="https://user-images.githubusercontent.com/58868651/77574327-987f4b00-6eb0-11ea-9c16-1fc760116ec3.png">
 
 :wrench: Used technologies:
 ----------------------
@@ -38,10 +34,7 @@ You just need to run the following commands:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/riltonfranzonee/bethehero
-
-# Go into the repository
-$ cd bethehero
+$ git clone https://github.com/cristianojr9/be-the-hero
 
 # Install dependencies
 $ yarn
@@ -50,13 +43,13 @@ $ yarn
 $ yarn start
 ```
 
-Make sure you have the [**REST API**](https://github.com/riltonfranzonee/bethehero-api) up and running.
+Make sure you have the [**REST API**](https://github.com/cristianojr9/be-the-hero/backend) up and running.
 
 
 :speech_balloon: Reach me
 ----------
 
-[*In case you want to reach me*](https://www.linkedin.com/in/rilton-franzone-b975a7198/)
+[*In case you want to reach me*](https://www.linkedin.com/in/cristianojr9/)
 
 
 
