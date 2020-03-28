@@ -22,10 +22,8 @@ Here is a list of technlogies (at least what I remeber) that I used to develop t
 - [**React Icons**](https://react-icons.netlify.com/#/)
 - [**React Toastify**](https://github.com/fkhadra/react-toastify)
 - [**Axios**](https://github.com/axios/axios)
-- [**Unform**](https://unform.dev/)
 - [**Eslint**](https://eslint.org/)
 - [**Prettier**](https://prettier.io/)
-- [**EditorConfig**](https://editorconfig.org/)
 
 ## :information_source: How to use this project
 To clone and run this application, you'll need Git, NodeJS and Yarn.
